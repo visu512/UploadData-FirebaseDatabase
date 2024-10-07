@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "320714315322",
+    "project_id": "uploaddatastorage-firebase",
+    "storage_bucket": "uploaddatastorage-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320714315322:android:7bdce093c20440afad8703",
+        "android_client_info": {
+          "package_name": "com.example.uploaddatastoragefirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB48XI98sUa-5jdDiVQMhvQORfIr5Ztq_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
